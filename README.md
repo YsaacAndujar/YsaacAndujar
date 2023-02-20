@@ -17,8 +17,8 @@ In the same way, I am always willing to learn new languages and technologies. I 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 </br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/CSharp-8A2BE2?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=101010)]()
+[![SqlServer](https://img.shields.io/badge/SqlServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white&labelColor=101010)]()
+[![MySql](https://img.shields.io/badge/mysql-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
