@@ -18,8 +18,8 @@ In the same way, I am always willing to learn new languages and technologies. I 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 </br>
 [![SqlServer](https://img.shields.io/badge/SqlServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white&labelColor=101010)]()
-[![MySql](https://img.shields.io/badge/mysql-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![MySql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 ### Hi there 👋
