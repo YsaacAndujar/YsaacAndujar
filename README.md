@@ -10,7 +10,7 @@ In the same way, I am always willing to learn new languages and technologies. I 
 
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C#-8A2BE2?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/CSharp-8A2BE2?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
